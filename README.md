@@ -1,17 +1,14 @@
 ##  React 
 
-### What were used on this project
+### O que usamos neste projeto
 
 - [x] MVVM 
 - [x] React 
 - [x] Redux 
 - [x] Auth 
-- [x] Firestore 
 - [x] React Hooks
 - [x] Responsive UI 
-- [x] Global and local css 
-
-### You can check it out [here](https://ajudadev-7bc8a.web.app). 
+- [x] Global and local css
 
 ### Images 
 
